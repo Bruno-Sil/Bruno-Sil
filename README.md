@@ -1,13 +1,12 @@
-# :octocat: Bruno Santos<img src="https://user-images.githubusercontent.com/53089002/106663542-9c750280-6582-11eb-955f-3f104a54d206.png" width="260" alt="Bruno Hi" align="right" />
+# Bruno Santos :man_technologist:
 
-Sou apaixonado por técnologia, desenvolvimento de Softwares, recentemente iniciei a carreira de desenvolvedor e analista com a criação da Chronos Three Tecnologia.
-Sou apaixonado por tecnologia, desenvolvimento de Softwares, recentemente iniciei a carreira de desenvolvedor e analista com a criação da Chronos Three Tecnologia.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/Bruno-Sil)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/bruno-santos-1a2875132/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)]()
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:deltafid@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)]
+(https://www.instagram.com/brunosantosoficial_1996/)
 
-<!--[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/bruno-santos)-->
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Bruno-Sil/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/bruno-santos)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](deltafid@gmail.com)
-<!--[![Github Badge](https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=CodePen&logoColor=white)](https://CodePen.com/bruno-santos)-->
 ##
 ![](https://img.shields.io/badge/‎-Linux-E95420?logo=linux&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-PHP-181717?logo=php&logoColor=white&style=plastic)
@@ -18,11 +17,13 @@ Sou apaixonado por tecnologia, desenvolvimento de Softwares, recentemente inicie
 ![](https://img.shields.io/badge/‎-Git-F05032?logo=git&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-GitHub-181717?logo=github&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
-## GITHUB
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bruno-santoso&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-santos&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
-## 💡 Dica para treinar lógica de programação
-- [Hackerrank](https://www.hackerrank.com/)
-- [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
 
+
+### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my profile :octocat:
+
+- 🔭 I’m currently working on mobile development
+- 🌱 I’m currently learning Dart, 💙 Flutter, IoT and Deno
+- 👯 I currently try to contribute with the organization and structure of Flutter projects that use [*Via_Cep_Brasil](https://pub.dev/packages/via_cep_brasil) as a state manager, with a pattern proposed by me called [via_cep_brasil](https://github.com/Bruno-Sil/via_cep_brasil), and accelerate the development with an extension made for vs code, [GetX Snippets](https://marketplace.visualstudio.com/items?itemName=get-snippets.get-snippets), both projects can be found in **this github*, in addition starting to contribute directly to the package.
+- 💬 Ask me about them, open an *issue*
+- 📫 How to reach me : [Telegram](https://t.me/Bruno_1996)
+- ⚡ Passionate about new mobile technologies.
