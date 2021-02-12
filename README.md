@@ -22,6 +22,7 @@
 ![](https://img.shields.io/badge/‎-GitHub-181717?logo=github&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
 
+
 - 💬 Ask me about them, open an *issue*
 - 📫 How to reach me : [Telegram](https://t.me/Bruno_1996)
 - ⚡ Passionate about new mobile technologies.
