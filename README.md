@@ -8,6 +8,14 @@
 (https://www.instagram.com/brunosantosoficial_1996/)
 
 
+
+### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my profile :octocat:
+
+- 🔭 I’m currently working on mobile development
+- 🌱 I’m currently learning Dart, 💙 Flutter, IoT and Deno
+- 👯 I currently try to contribute with the organization and structure of Flutter projects that use [*Via_Cep_Brasil](https://pub.dev/packages/via_cep_brasil) as a state manager, with a pattern proposed by me called [via_cep_brasil](https://github.com/Bruno-Sil/via_cep_brasil), and accelerate the development with an extension made for vs code, [GetX Snippets](https://marketplace.visualstudio.com/items?itemName=get-snippets.get-snippets), both projects can be found in **this github*, in addition starting to contribute directly to the package.
+
+##
 ![](https://img.shields.io/badge/‎-Linux-E95420?logo=linux&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-PHP-181717?logo=php&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
@@ -18,12 +26,6 @@
 ![](https://img.shields.io/badge/‎-GitHub-181717?logo=github&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
 
-
-### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my profile :octocat:
-
-- 🔭 I’m currently working on mobile development
-- 🌱 I’m currently learning Dart, 💙 Flutter, IoT and Deno
-- 👯 I currently try to contribute with the organization and structure of Flutter projects that use [*Via_Cep_Brasil](https://pub.dev/packages/via_cep_brasil) as a state manager, with a pattern proposed by me called [via_cep_brasil](https://github.com/Bruno-Sil/via_cep_brasil), and accelerate the development with an extension made for vs code, [GetX Snippets](https://marketplace.visualstudio.com/items?itemName=get-snippets.get-snippets), both projects can be found in **this github*, in addition starting to contribute directly to the package.
 - 💬 Ask me about them, open an *issue*
 - 📫 How to reach me : [Telegram](https://t.me/Bruno_1996)
 - ⚡ Passionate about new mobile technologies.
