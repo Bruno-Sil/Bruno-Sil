@@ -24,5 +24,5 @@
 
 
 - 💬 Ask me about them, open an *issue*
-- 📫 How to reach me : [Telegram](https://t.me/Bruno_1996)
+- 📫 How to reach me : [Telegram](https://t.me/@bruno_santos_1996)
 - ⚡ Passionate about new mobile technologies.
